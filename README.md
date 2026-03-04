@@ -34,7 +34,7 @@ Git | VS Code | Jupyter Notebook | Postman
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight)
 
-> 🔄 Replace **USERNAME** with your GitHub username.
+> 🔄 Replace **Ashwini-nandagavi** with your GitHub username.
 
 ---
 
@@ -47,5 +47,5 @@ Git | VS Code | Jupyter Notebook | Postman
 ---
 
 ### 📫 Connect With Me
-- 📧 Email: *your email*  
-- 💼 LinkedIn: *your LinkedIn URL*  
+- 📧 Email: *ashwininandagavi173@gmail.com *  
+- 💼 LinkedIn: *www.linkedin.com/in/ashwini-nandagavi*  
