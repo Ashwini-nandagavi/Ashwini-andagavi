@@ -2,13 +2,10 @@
 
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Data+Analyst+%7C+Data+Science+%7c+Machine+Learning+%7c+Full+Stack+Development;SQL+%7C+Python+%7C+Power+BI;Turning+Data+into+Actionable+Insights;ETL+%7C+Dashboards" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Data+Analyst+%7C+Data+Science+%7c+Machine+Learning+%7c+Full+Stack+Development;SQL+%7C+Python+%7C+Power+BI;Turning+Data+into+Actionable+Insights;%7C+Dashboards" alt="Typing SVG" />
 </div>
 
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Ashwini-nandagavi/Ashwini-nandagavi/main/banner.png" alt="Ashwini Nandagavi Banner" />
-</p>
 
 <h1 align="center">👋 Hi, I'm Ashwini Nandagavi</h1>
 
