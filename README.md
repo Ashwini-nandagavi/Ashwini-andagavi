@@ -31,11 +31,7 @@ I have hands-on experience in web development and data-driven applications, enab
 
 ### 🛒 Online Shopping for Local Vendors
 
-<img src="https://img.shields.io/badge/Project-Online%20Shopping%20System-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-<img src="https://img.shields.io/badge/Frontend-HTML%20%7C%20CSS%20%7C%20JavaScript-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/Backend-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/Database-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-
+Tech Stack: HTML | CSS | JavaScript | PHP | MySQL | XAMPP
 
 Developed a web application connecting local vendors with customers Enabled users to browse, order, and purchase products online Built vendor-side features to manage product listings and sales Focused on improving accessibility for small businesses through digital platforms
 ---
