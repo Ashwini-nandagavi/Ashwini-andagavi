@@ -30,39 +30,39 @@ Aspiring Data Science and AI professional with strong skills in Python, machine 
 ---
 
 ### 🛒 Online Shopping for Local Vendors
-
+---
 Tech Stack: HTML | CSS | JavaScript | PHP | MySQL | XAMPP
 
 Developed a web application connecting local vendors with customers Enabled users to browse, order, and purchase products online Built vendor-side features to manage product listings and sales Focused on improving accessibility for small businesses through digital platforms
----
+
 
 ### 🏠 Real Estate Management System
-
+---
 Tech Stack: HTML | CSS | JavaScript | PHP | MySQL
 
 Designed a platform for buying, selling, and renting properties Implemented property search, filtering, and booking functionality Enabled agents to list and manage property details efficiently Improved traditional real estate workflows with digital automation
----
+
 
 ### 🐾 Pet Care Mobile Application
-
+---
 Tech Stack: Flutter | Dart | Firebase | Google Maps API
 
 Built a mobile app for pet care services and product management Integrated location-based services to find nearby veterinary clinics Provided features to manage pet-related needs in one place Focused on user convenience and accessibility
----
+
 
 ### 🎬 Movie Data Analysis Dashboard
-
+---
 Tech Stack: Python | Pandas | NumPy | Matplotlib | Plotly | Streamlit | MySQL
 
 Performed data cleaning, preprocessing, and analysis on movie datasets Developed an interactive dashboard to visualize trends and insights Analyzed top-rated movies, genre performance, and revenue patterns Delivered actionable insights through visual storytelling
----
+
 
 ## 📊 Interactive Data Dashboard (Internship Project)
-
+---
 Tech Stack: Python | Pandas | Streamlit
 
 Designed and deployed a dynamic data dashboard Implemented interactive filters and widgets for better user experience Used data analysis techniques to extract meaningful insights Enhanced usability through clean UI and responsive design
---- 
+ 
 
 
 ## 🌱 Currently Improving 
