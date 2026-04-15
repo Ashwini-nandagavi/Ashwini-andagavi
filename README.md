@@ -69,11 +69,11 @@ Designed and deployed a dynamic data dashboard Implemented interactive filters a
 
 ## 🌱 Currently Improving 
 
-Data Analysis & Visualization (Pandas, Plotly, Matplotlib)
-Streamlit for Interactive Dashboards
-Python for AI/ML
-Flutter & Firebase App Development
-Database Handling: MySQL & SQL Performance
+- Data Analysis & Visualization (Pandas, Plotly, Matplotlib)
+- Streamlit for Interactive Dashboards
+- Python for AI/ML
+- Flutter & Firebase App Development
+- Database Handling: MySQL & SQL Performance
 ---
 
 ### 🛠️ Technical Skillset
