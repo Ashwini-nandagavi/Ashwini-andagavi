@@ -66,7 +66,7 @@ Designed and deployed a dynamic data dashboard Implemented interactive filters a
 
 ## 🌱 Currently Improving
 
-Advanced SQL optimization & query performance Data modeling & data warehousing concepts Advanced machine learning techniques Business Intelligence & dashboard best practices
+<p align="left"> <img src="https://img.shields.io/badge/Advanced%20SQL%20Optimization-Query%20Performance-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Data%20Modeling-Data%20Warehousing-FF6F00?style=for-the-badge&logo=databricks&logoColor=white"/> <img src="https://img.shields.io/badge/Advanced%20Machine%20Learning-Techniques-102230?style=for-the-badge&logo=scikitlearn&logoColor=F7931E"/> <img src="https://img.shields.io/badge/Business%20Intelligence-Dashboard%20Best%20Practices-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/> </p>
 ---
 
 ## 🌱 Currently Improving 
