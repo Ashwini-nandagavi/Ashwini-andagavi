@@ -76,60 +76,60 @@ Designed and deployed a dynamic data dashboard Implemented interactive filters a
 - Database Handling: MySQL & SQL Performance
 ---
 
-### 🛠️ Technical Skillset
+## 🛠️ Technical Skillset  
 
-### 💻 Programming & Data Analysis
-<p>
-  <img src="https://img.shields.io/badge/Python-Advanced-3776AB?style=flat&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Pandas-Experienced-150458?style=flat&logo=pandas&logoColor=white">
-  <img src="https://img.shields.io/badge/NumPy-Experienced-013243?style=flat&logo=numpy&logoColor=white">
-  <img src="https://img.shields.io/badge/Matplotlib-Experienced-11557C?style=flat">
-  <img src="https://img.shields.io/badge/Seaborn-Experienced-4ECDC4?style=flat">
-  <img src="https://img.shields.io/badge/SQL-Advanced-4479A1?style=flat&logo=mysql&logoColor=white">
-</p>
-
-### 🗄️ Database & Querying
-<p>
-  <img src="https://img.shields.io/badge/Joins-Advanced-6C5CE7?style=flat">
-  <img src="https://img.shields.io/badge/CTEs-Advanced-00B894?style=flat">
-  <img src="https://img.shields.io/badge/Window%20Functions-Advanced-E17055?style=flat">
-  <img src="https://img.shields.io/badge/Subqueries-Advanced-0984E3?style=flat">
-</p>
-
-
-
-### 📈 Data Techniques & Analytics
-<p>
-  <img src="https://img.shields.io/badge/Exploratory%20Data%20Analysis-Experienced-FF6B6B?style=flat">
-  <img src="https://img.shields.io/badge/Data%20Cleaning-Experienced-4ECDC4?style=flat">
-  <img src="https://img.shields.io/badge/Data%20Wrangling-Experienced-45B7D1?style=flat">
-  <img src="https://img.shields.io/badge/ETL%20Pipelines-Experienced-96CEB4?style=flat">
-  <img src="https://img.shields.io/badge/Feature%20Engineering-Experienced-6C5CE7?style=flat">
-  <img src="https://img.shields.io/badge/Statistical%20Analysis-Experienced-00B894?style=flat">
-  <img src="https://img.shields.io/badge/KPI%20Tracking-Experienced-0984E3?style=flat">
-</p>
-
-### 🤖 Machine Learning & Predictive Analytics
-<p>
-  <img src="https://img.shields.io/badge/Scikit--Learn-Experienced-F7931E?style=flat&logo=scikitlearn&logoColor=white">
-  <img src="https://img.shields.io/badge/Random%20Forest-Experienced-FF7675?style=flat">
-  <img src="https://img.shields.io/badge/Logistic%20Regression-Experienced-55EFC4?style=flat">
-  <img src="https://img.shields.io/badge/Predictive%20Modeling-Experienced-6C5CE7?style=flat">
-</p>
-
-### 📊 Tools & Productivity
-<p>
-  <img src="https://img.shields.io/badge/Excel-Advanced-217346?style=flat&logo=microsoft-excel&logoColor=white">
-  <img src="https://img.shields.io/badge/Pivot%20Tables-Advanced-00B894?style=flat">
-  <img src="https://img.shields.io/badge/VLOOKUP-Advanced-0984E3?style=flat">
-  <img src="https://img.shields.io/badge/Git-Experienced-F05032?style=flat&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub-Experienced-181717?style=flat&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/Streamlit-Experienced-FF4B4B?style=flat&logo=streamlit&logoColor=white">
-  <img src="https://img.shields.io/badge/Jupyter-Experienced-F37626?style=flat&logo=jupyter&logoColor=white">
-  <img src="https://img.shields.io/badge/VS%20Code-Experienced-007ACC?style=flat&logo=visualstudiocode&logoColor=white">
-</p>
+### 💻 Programming Languages  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 ---
+
+### 🌐 Web Technologies  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+---
+
+### 📊 Data Science & Analytics  
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-4CAF50?style=for-the-badge)
+![Data Visualization](https://img.shields.io/badge/Data%20Visualization-FF9800?style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly)
+
+---
+
+### 🗄️ Database Management  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+---
+
+### ⚙️ Tools & Frameworks  
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+---
+
+### 🧰 Development Tools (IDEs)  
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+---
+
+### ☁️ Additional Skills  
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Google Maps API](https://img.shields.io/badge/Google%20Maps%20API-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)
+![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-8E44AD?style=for-the-badge)
+![Dashboard Development](https://img.shields.io/badge/Dashboard%20Development-2ECC71?style=for-the-badge)
 
 ## 📫 Let's Connect
 
