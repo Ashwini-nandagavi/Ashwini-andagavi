@@ -23,9 +23,7 @@
 ## 🚀 About Me 
 
 
-I am a detail-oriented Data Analyst and aspiring Data Science & AI professional with strong expertise in Python, SQL, and data visualization tools. I specialize in transforming raw and structured data into meaningful insights through data analysis, dashboard development, and machine learning techniques.
-
-I have hands-on experience in web development and data-driven applications, enabling me to build end-to-end solutions that are both analytical and user-friendly. I am passionate about solving real-world problems using data and continuously improving my skills in AI, data analytics, and modern technologies.
+Aspiring Data Science and AI professional with strong skills in Python, machine learning, data analysis, and data visualization, complemented by experience in HTML, CSS, JavaScript, and web development. I focus on transforming complex datasets into clear, actionable insights while developing efficient and user-friendly analytical solutions. Committed to continuous learning and professional growth in Data Science, Data Analysis, AI/ML, and modern software development.
 ---
 
 ## 🔭 Featured Projects
