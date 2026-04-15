@@ -64,18 +64,10 @@ Tech Stack: Python | Pandas | Streamlit
 Designed and deployed a dynamic data dashboard Implemented interactive filters and widgets for better user experience Used data analysis techniques to extract meaningful insights Enhanced usability through clean UI and responsive design
 --- 
 
-## 🌱 Currently Improving
-
-<p align="left"> <img src="https://img.shields.io/badge/Advanced%20SQL%20Optimization-Query%20Performance-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Data%20Modeling-Data%20Warehousing-FF6F00?style=for-the-badge&logo=databricks&logoColor=white"/> <img src="https://img.shields.io/badge/Advanced%20Machine%20Learning-Techniques-102230?style=for-the-badge&logo=scikitlearn&logoColor=F7931E"/> <img src="https://img.shields.io/badge/Business%20Intelligence-Dashboard%20Best%20Practices-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/> </p>
----
 
 ## 🌱 Currently Improving 
 
-- Advanced SQL Optimization & Query Performance  
-- Data Modeling & Warehousing Concepts  
-- Advanced Machine Learning Techniques  
-- Business Intelligence Best Practices  
-
+<p> <!-- Machine Learning --> <img src="https://img.shields.io/badge/Machine%20Learning-Improving-ff7f50?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=000&color=ff7f50"> <!-- Data Analysis --> <img src="https://img.shields.io/badge/Data%20Analysis-Python%20%7C%20Pandas-8A2BE2?style=for-the-badge&logo=python&logoColor=white&labelColor=000"> <!-- Visualization --> <img src="https://img.shields.io/badge/Data%20Visualization-Plotly%20%7C%20Matplotlib-ff0099?style=for-the-badge&logo=plotly&logoColor=white&labelColor=000"> <!-- Streamlit --> <img src="https://img.shields.io/badge/Streamlit-Interactive%20Apps-ff4b4b?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=000"> <!-- SQL --> <img src="https://img.shields.io/badge/MySQL-Query%20Optimization-00c6ff?style=for-the-badge&logo=mysql&logoColor=white&labelColor=000"> <!-- Flutter --> <img src="https://img.shields.io/badge/Flutter%20%7C%20Dart-Mobile%20Development-00e1ff?style=for-the-badge&logo=flutter&logoColor=white&labelColor=000"> <!-- Excel --> <img src="https://img.shields.io/badge/Advanced%20Excel-Data%20Analytics-38b000?style=for-the-badge&logo=microsoft-excel&logoColor=white&labelColor=000"> <!-- AI ML --> <img src="https://img.shields.io/badge/AI%20%2F%20ML-Continuous%20Learning-d000ff?style=for-the-badge&logo=apache-airflow&logoColor=white&labelColor=000"> <!-- Web Dev --> <img src="https://img.shields.io/badge/Web%20Development-HTML%20CSS%20JS-faa307?style=for-the-badge&logo=javascript&logoColor=white&labelColor=000"> <!-- Problem Solving --> <img src="https://img.shields.io/badge/Problem%20Solving-Improving-00ff87?style=for-the-badge&logo=codewars&logoColor=white&labelColor=000"> </p>
 ---
 
 # 🛠️ Technical Skillset
