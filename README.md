@@ -26,7 +26,8 @@ I am a detail-oriented Data Analyst and aspiring Data Science & AI professional 
 I have hands-on experience in web development and data-driven applications, enabling me to build end-to-end solutions that are both analytical and user-friendly. I am passionate about solving real-world problems using data and continuously improving my skills in AI, data analytics, and modern technologies.
 ---
 
-🔭 Featured Projects
+## 🔭 Featured Projects
+---
 
 ### 🛒 Online Shopping for Local Vendors
 
