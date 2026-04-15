@@ -6,6 +6,16 @@
 </div>
 
 <p align="center">
+<a href="https://www.linkedin.com/in/ashwini-nandagavi">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+  </a>
+   <a href="https://github.com/Ashwini-nandagavi">
+    <img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail">
+  </a>
+</p>
+
+
+<p align="center">
   AI • Machine Learning • Data Science • Full-Stack Development  
 </p>
 
@@ -67,10 +77,14 @@ Designed and deployed a dynamic data dashboard Implemented interactive filters a
 
 ## 🌱 Currently Improving 
 
-<p> <!-- Machine Learning --> <img src="https://img.shields.io/badge/Machine%20Learning-Improving-ff7f50?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=000&color=ff7f50"> <!-- Data Analysis --> <img src="https://img.shields.io/badge/Data%20Analysis-Python%20%7C%20Pandas-8A2BE2?style=for-the-badge&logo=python&logoColor=white&labelColor=000"> <!-- Visualization --> <img src="https://img.shields.io/badge/Data%20Visualization-Plotly%20%7C%20Matplotlib-ff0099?style=for-the-badge&logo=plotly&logoColor=white&labelColor=000"> <!-- Streamlit --> <img src="https://img.shields.io/badge/Streamlit-Interactive%20Apps-ff4b4b?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=000"> <!-- SQL --> <img src="https://img.shields.io/badge/MySQL-Query%20Optimization-00c6ff?style=for-the-badge&logo=mysql&logoColor=white&labelColor=000"> <!-- Flutter --> <img src="https://img.shields.io/badge/Flutter%20%7C%20Dart-Mobile%20Development-00e1ff?style=for-the-badge&logo=flutter&logoColor=white&labelColor=000"> <!-- Excel --> <img src="https://img.shields.io/badge/Advanced%20Excel-Data%20Analytics-38b000?style=for-the-badge&logo=microsoft-excel&logoColor=white&labelColor=000"> <!-- AI ML --> <img src="https://img.shields.io/badge/AI%20%2F%20ML-Continuous%20Learning-d000ff?style=for-the-badge&logo=apache-airflow&logoColor=white&labelColor=000"> <!-- Web Dev --> <img src="https://img.shields.io/badge/Web%20Development-HTML%20CSS%20JS-faa307?style=for-the-badge&logo=javascript&logoColor=white&labelColor=000"> <!-- Problem Solving --> <img src="https://img.shields.io/badge/Problem%20Solving-Improving-00ff87?style=for-the-badge&logo=codewars&logoColor=white&labelColor=000"> </p>
+Data Analysis & Visualization (Pandas, Plotly, Matplotlib)
+Streamlit for Interactive Dashboards
+Python for AI/ML
+Flutter & Firebase App Development
+Database Handling: MySQL & SQL Performance
 ---
 
-# 🛠️ Technical Skillset
+### 🛠️ Technical Skillset
 
 ### 💻 Programming & Data Analysis
 <p>
