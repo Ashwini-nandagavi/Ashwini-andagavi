@@ -21,10 +21,10 @@
 ---
 
 ## 🚀 About Me 
-
+---
 
 Aspiring Data Science and AI professional with strong skills in Python, machine learning, data analysis, and data visualization, complemented by experience in HTML, CSS, JavaScript, and web development. I focus on transforming complex datasets into clear, actionable insights while developing efficient and user-friendly analytical solutions. Committed to continuous learning and professional growth in Data Science, Data Analysis, AI/ML, and modern software development.
----
+
 
 ## 🔭 Featured Projects
 ---
